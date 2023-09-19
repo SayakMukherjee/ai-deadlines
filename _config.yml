@@ -5,7 +5,9 @@ author: Sayak Mukherjee
 domain: "https://SayakMukherjee.github.io/"
 baseurl: "/ai-deadlines"
 
-twitter_hashtag: _sayak_m_
+twitter:
+  username: _sayak_m_
+  hashtag: machinelearning
 github_username: SayakMukherjee
 github_repo: ai-deadlines
 
