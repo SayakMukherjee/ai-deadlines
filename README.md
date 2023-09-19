@@ -1,14 +1,10 @@
-## AI Deadlines [![Build Status](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)](https://travis-ci.com/abhshkdz/ai-deadlines)
+## AI Deadlines
 
 Countdown timers to keep track of a bunch of CV/NLP/ML/RO conference deadlines.
 
 ## Contributing
 
-[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/0)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/0)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/1)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/1)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/2)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/2)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/3)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/3)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/4)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/4)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/5)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/5)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/6)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/6)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/7)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/7)
-
 Contributions are very welcome!
-
-To keep things minimal, I'm only looking to list top-tier conferences in AI as per [conferenceranks.com][6] and my judgement calls. Please feel free to maintain a separate fork if you don't see your sub-field or conference of interest listed.
 
 To add or update a deadline:
 - Fork the repository
@@ -38,23 +34,6 @@ To add or update a deadline:
       note: Important
     ```
 - Send a pull request
-
-## Forks & other useful listings
-
-- [geodeadlin.es][3] by @LukasMosser
-- [neuro-deadlines][4] by @tbryn
-- [ai-challenge-deadlines][5] by @dieg0as
-- [CV-oriented ai-deadlines (with an emphasis on medical images)][8] by @duducheng
-- [es-deadlines (Embedded Systems, Computer Architecture, and Cyber-physical Systems)][9] by @AlexVonB and @k0nze
-- [2019-2020 International Conferences in AI, CV, DM, NLP and Robotics][10] by @JackieTseng
-- [ccf-deadlines][11] by @ccfddl
-- [networking-deadlines (Computer Networking, Measurement)][12] by @andrewcchu
-- [ad-deadlines.com][13] by @daniel-bogdoll
-- [sec-deadlines.github.io/ (Security and Privacy)][14] by @clementfung
-- [pythondeadlin.es][15] by @jesperdramsch
-- [deadlines.openlifescience.ai (Healthcare domain conferences and workshops)][16] by @monk1337
-- [hci-deadlines.github.io (Human-Computer Interaction conferences)][17] by @makinteract
-- [ds-deadlines.github.io (Distributed Systems, Event-based Systems, Performance, and Software Engineering conferences)][18] by @ds-deadlines
 
 ## License
 
