@@ -27,6 +27,89 @@
   sub: CV
   note: Abstract deadline on February 29, 2024. More info <a href='https://eccv2024.ecva.net/'>here</a>.
 
+- title: CoLLAs
+  year: 2024
+  id: collas24
+  link: https://lifelong-ml.cc
+  deadline: '2024-02-15 23:59:59'
+  abstract_deadline: '2024-02-09 23:59:59'
+  timezone: UTC-12
+  place: Pisa, Italy
+  date: July 29 - August 01, 2024
+  start: 2024-07-29
+  end: 2024-08-01
+  sub: ML
+    
+- title: WACV
+  year: 2024
+  id: wacv24
+  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
+  link: https://wacv2024.thecvf.com
+  deadline: '2023-08-30 11:59:59'
+  timezone: America/Los_Angeles
+  place: Waikoloa, Hawaii, USA
+  date: January 3-7, 2024
+  start: 2024-01-03
+  end: 2024-01-07
+  hindex: 76
+  sub: CV
+  note: This is the Round 2 submission. Paper Registration is on August 23rd 2023. More info <a href='https://wacv2024.thecvf.com/submissions/'>here</a>.
+
+- title: WACV
+  year: 2023
+  id: wacv23
+  link: http://wacv2023.thecvf.com/
+  deadline: '2022-07-13 11:59:59'
+  timezone: America/Los_Angeles
+  place: Waikoloa, Hawaii, USA
+  date: January 3-7, 2023
+  start: 2023-01-03
+  end: 2023-01-07
+  hindex: 54
+  sub: CV
+  note: Second round submission deadline on Aug. 29th 2022
+
+- title: AISTATS
+  year: 2024
+  id: aistats24
+  link: https://www.aistats.org/aistats2024/
+  deadline: '2023-10-16 23:59:59'
+  timezone: UTC-12
+  place: Valencia, Spain
+  date: May 02-04, 2024
+  start: 2024-05-02
+  end: 2024-05-04
+  hindex: 91
+  sub: ML
+  note: Mandatory abstract deadline on Oct 6, 2023. More info <a href='https://aistats.org/aistats2024/dates.html'>here</a>.
+
+- title: BMVC
+  year: 2023
+  id: bmvc23
+  link: https://www.bmvc2023.org
+  deadline: '2023-05-12 23:59:59'
+  timezone: UTC
+  place: Aberdeen, UK
+  date: November 20-24, 2023
+  start: 2023-11-20
+  end: 2023-11-24
+  hindex: 75
+  sub: CV
+  note: Workshop Submission Deadline on May 5th, 2023
+
+- title: CoLLAs
+  year: 2023
+  id: collas23
+  link: https://lifelong-ml.cc
+  deadline: '2023-03-13 23:59:59'
+  abstract_deadline: '2023-03-09 23:59:59'
+  timezone: UTC-12
+  place: Montreal, Canada
+  date: August 22-25, 2023
+  start: 2023-08-22
+  end: 2023-08-25
+  sub: ML
+
 - title: ICML
   year: 2023
   id: icml23
